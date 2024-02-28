@@ -1,0 +1,1 @@
+![Metrics](https://raw.githubusercontent.com/TacticalCrab/TacticalCrab/main/github-metrics.svg)
