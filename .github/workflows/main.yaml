@@ -36,5 +36,4 @@ jobs:
           plugin_languages_skipped: GOD-GOG
           plugin_lines: yes
           plugin_repositories: yes
-          plugin_repositories_featured: DontEatOreo/WhisperAPI, DontEatOreo/dis
           plugin_traffic: yes
